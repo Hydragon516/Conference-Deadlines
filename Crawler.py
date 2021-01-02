@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 from pprint import pprint
 import requests
 from pandas import *
+from tabulate import tabulate
 
 def month_string_to_number(string):
     m = {
