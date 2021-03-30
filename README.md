@@ -23,3 +23,4 @@ Conferences up to the top 100 are displayed and the table below will be updated 
 | 14 |     81 | IMC      |  2021_5_19 | https://conferences.sigcomm.org/imc/2021/ |
 | 15 |     39 | ICDMW    |  2021_6_11 | https://icdm2021.auckland.ac.nz/          |
 | 16 |     75 | 3DV      |  2021_7_30 | https://3dv2021.surrey.ac.uk/             |
+| 17 |     21 | WSDM     |  2021_8_09 | http://www.wsdm-conference.org/2022/      |
