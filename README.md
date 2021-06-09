@@ -8,9 +8,9 @@ Conferences up to the top 100 are displayed and the table below will be updated 
 |---:|-------:|:-------|-----------:|:-------------------------------------------------------|
 |  0 |     58 | ISBI   | 2021_10_06 | https://biomedicalimaging.org/2022/                    |
 |  1 |      8 | WWW    | 2021_10_11 | https://www2022.thewebconf.org/                        |
-|  2 |     90 | FOCS   |  2021_6_03 | https://focs2021.cs.colorado.edu/cfp/                  |
-|  3 |     39 | ICDMW  |  2021_6_11 | https://icdm2021.auckland.ac.nz/                       |
-|  4 |     70 | BMVC   |  2021_6_18 | https://britishmachinevisionassociation.github.io/bmvc |
+|  2 |     39 | ICDMW  |  2021_6_11 | https://icdm2021.auckland.ac.nz/                       |
+|  3 |     70 | BMVC   |  2021_6_18 | https://britishmachinevisionassociation.github.io/bmvc |
+|  4 |     47 | SODA   |  2021_7_05 | https://www.siam.org/conferences/cm/conference/soda22  |
 |  5 |     41 | POPL   |  2021_7_08 | https://popl22.sigplan.org/                            |
 |  6 |     32 | NDSS   |  2021_7_23 | https://www.ndss-symposium.org/ndss2022/               |
 |  7 |     75 | 3DV    |  2021_7_30 | https://3dv2021.surrey.ac.uk/                          |
