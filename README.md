@@ -13,8 +13,8 @@ Conferences up to the top 100 are displayed and the table below will be updated 
 |  4 |      8 | WWW        | 2021_10_11 | https://www2022.thewebconf.org/                |
 |  5 |     23 | ICC        | 2021_10_11 | https://icc2022.ieee-icc.org/                  |
 |  6 |     92 | SANER      | 2021_10_14 | https://saner2022.uom.gr/                      |
-|  7 |     74 | ACMASIACCS | 2021_11_19 | https://asiaccs2022.conferenceservice.jp/      |
-|  8 |     41 | POPL       |  2021_7_08 | https://popl22.sigplan.org/                    |
+|  7 |      1 | CVPR       | 2021_11_16 | http://cvpr2022.thecvf.com/                    |
+|  8 |     74 | ACMASIACCS | 2021_11_19 | https://asiaccs2022.conferenceservice.jp/      |
 |  9 |     82 | ASP-DAC    |  2021_7_21 | https://aspdac2022.github.io/index.html        |
 | 10 |     32 | NDSS       |  2021_7_23 | https://www.ndss-symposium.org/ndss2022/       |
 | 11 |     49 | HPCA       |  2021_7_23 | https://hpca-conf.org/2022/                    |
@@ -28,6 +28,7 @@ Conferences up to the top 100 are displayed and the table below will be updated 
 | 19 |     57 | ISSCC      |  2021_9_08 | http://isscc.org/                              |
 | 20 |     29 | NSDI       |  2021_9_09 | https://www.usenix.org/conference/nsdi22       |
 | 21 |      7 | ICRA       |  2021_9_14 | https://www.icra2022.org/                      |
-| 22 |     37 | WCNCW      |  2021_9_15 | https://wcnc2022.ieee-wcnc.org/                |
-| 23 |     73 | PERCOM     |  2021_9_27 | https://www.percom.org/                        |
-| 24 |     72 | ACC        |  2021_9_28 | https://acc2022.a2c2.org/                      |
+| 22 |     24 | SIGMOD     |  2021_9_15 | https://2022.sigmod.org/                       |
+| 23 |     37 | WCNCW      |  2021_9_15 | https://wcnc2022.ieee-wcnc.org/                |
+| 24 |     73 | PERCOM     |  2021_9_27 | https://www.percom.org/                        |
+| 25 |     72 | ACC        |  2021_9_28 | https://acc2022.a2c2.org/                      |
