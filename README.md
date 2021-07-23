@@ -1,5 +1,7 @@
 <h1>Conference-Deadlines-Crawler</h1>
-<p>This repository contains code that crawls deadline information for various computer science conferences. Conference names, rankings, deadlines, and links are crawled from Guide2Research. Conferences up to the top 100 are displayed and the table below will be updated in the future.</p>|    |   rank | name       |   deadline | link                                           |
+<p>This repository contains code that crawls deadline information for various computer science conferences. Conference names, rankings, deadlines, and links are crawled from Guide2Research. Conferences up to the top 100 are displayed and the table below will be updated in the future.</p>
+
+|    |   rank | name       |   deadline | link                                           |
 |---:|-------:|:-----------|-----------:|:-----------------------------------------------|
 |  0 |     75 | 3DV        |  2021_7_30 | https://3dv2021.surrey.ac.uk/                  |
 |  1 |     40 | FG         |  2021_8_01 | http://iab-rubric.org/fg2021/                  |
