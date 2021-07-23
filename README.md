@@ -1,5 +1,5 @@
 <h1>Conference-Deadlines-Crawler</h1>
-<p>This repository contains code that crawls deadline information for various computer science conferences. Conference names, rankings, deadlines, and links are crawled from Guide2Research. Conferences up to the top 100 are displayed and the table below will be updated in the future.</p>
+<p>This repository contains code that crawls deadline information for various computer science conferences. Conference names, rankings, deadlines, and links are crawled from <a href="https://www.guide2research.com/topconf/machine-learning">Guide2Research</a>. Conferences up to the top 100 are displayed and the table below will be updated in the future.</p>
 
 |    |   rank | name       |   deadline | link                                           |
 |---:|-------:|:-----------|-----------:|:-----------------------------------------------|
