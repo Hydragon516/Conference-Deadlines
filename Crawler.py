@@ -1,8 +1,8 @@
 from bs4 import BeautifulSoup
-from pprint import pprint
 import requests
 from pandas import *
 from tabulate import tabulate
+import natsort
 
 def month_string_to_number(string):
     m = {
@@ -43,7 +43,7 @@ for i in range(len(data1)):
     link = (data4[i].text).replace("\n","")
     rank = (data5[i].text).replace("\n","")
 
-    if len(deadline) == 9:
+    if len(deadline) == 7:
         date = deadline[-3:]
         m = month_string_to_number(date[1])
         date[1] = str(m)
@@ -51,7 +51,7 @@ for i in range(len(data1)):
 
         ai_dict[rank, name, link] = '_'.join(date)
 
-ai_dict = sorted(ai_dict.items(), key=lambda x:x[1], reverse=False)
+ai_dict = natsort.natsorted(ai_dict.items(), key=lambda x:x[1], reverse=False)
 
 conference_rank = []
 conference_name = []
