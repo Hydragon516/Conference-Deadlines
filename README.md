@@ -31,3 +31,4 @@
 | 24 |     74 | ACMASIACCS | 2021_11_19 | https://asiaccs2022.conferenceservice.jp/      |
 | 25 |     16 | SP         | 2021_12_02 | https://www.ieee-security.org/TC/SP2022/       |
 | 26 |     66 | VTC        | 2021_12_12 | https://events.vtsociety.org/vtc2022-spring/   |
+| 27 |     48 | IJCNN      |  2022_1_31 | https://wcci2022.org/call-for-papers/          |
