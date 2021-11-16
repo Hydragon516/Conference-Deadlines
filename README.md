@@ -4,9 +4,8 @@
 
 |    |   rank | name                                                                                                                        |   deadline |
 |---:|-------:|:----------------------------------------------------------------------------------------------------------------------------|-----------:|
-|  0 |      1 | [CVPR 2022 : IEEE/CVF Conference on Computer Vision and Pattern Recognition](http://cvpr2022.thecvf.com/)                   | 2021_11_16 |
-|  1 |     35 | [ICDE 2022 : International Conference on Data Engineering Workshops](https://icde2022.ieeecomputer.my/)                     | 2021_11_17 |
-|  2 |     74 | [ACM ASIACCS 2022 : ACM ASIA Conference on Computer and Communications Security](https://asiaccs2022.conferenceservice.jp/) | 2021_11_19 |
-|  3 |     16 | [SP 2022 : IEEE Symposium on Security and Privacy](https://www.ieee-security.org/TC/SP2022/)                                |  2021_12_2 |
-|  4 |     66 | [VTC 2022 : IEEE Vehicular Technology Conference](https://events.vtsociety.org/vtc2022-spring/)                             | 2021_12_12 |
-|  5 |     48 | [IJCNN 2022 : International Joint Conference on Neural Networks](https://wcci2022.org/call-for-papers/)                     |  2022_1_31 |
+|  0 |     35 | [ICDE 2022 : International Conference on Data Engineering Workshops](https://icde2022.ieeecomputer.my/)                     | 2021_11_17 |
+|  1 |     74 | [ACM ASIACCS 2022 : ACM ASIA Conference on Computer and Communications Security](https://asiaccs2022.conferenceservice.jp/) | 2021_11_19 |
+|  2 |     16 | [SP 2022 : IEEE Symposium on Security and Privacy](https://www.ieee-security.org/TC/SP2022/)                                |  2021_12_2 |
+|  3 |     66 | [VTC 2022 : IEEE Vehicular Technology Conference](https://events.vtsociety.org/vtc2022-spring/)                             | 2021_12_12 |
+|  4 |     48 | [IJCNN 2022 : International Joint Conference on Neural Networks](https://wcci2022.org/call-for-papers/)                     |  2022_1_31 |
