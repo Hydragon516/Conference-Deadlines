@@ -4,5 +4,4 @@
 
 |    |   rank | name                                                                                                    |   deadline |
 |---:|-------:|:--------------------------------------------------------------------------------------------------------|-----------:|
-|  0 |     66 | [VTC 2022 : IEEE Vehicular Technology Conference](https://events.vtsociety.org/vtc2022-spring/)         | 2021_12_12 |
-|  1 |     48 | [IJCNN 2022 : International Joint Conference on Neural Networks](https://wcci2022.org/call-for-papers/) |  2022_1_31 |
+|  0 |     48 | [IJCNN 2022 : International Joint Conference on Neural Networks](https://wcci2022.org/call-for-papers/) |  2022_1_31 |
