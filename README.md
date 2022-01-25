@@ -12,5 +12,6 @@
 |  5 |        0 | [UAI](https://www.auai.org/uai2022/)     | 2022_02_25 |
 |  6 |       73 | [IROS](https://iros2022.org/)            | 2022_03_01 |
 |  7 |        0 | [AutoML-Conf](https://automl.cc/)        | 2022_03_03 |
-|  8 |      197 | [ECCV](https://eccv2022.ecva.net/)       | 2022_03_07 |
-|  9 |       58 | [MM](https://2022.acmmm.org/)            | 2022_04_07 |
+|  8 |        0 | [CoLLAs](https://lifelong-ml.cc)         | 2022_03_04 |
+|  9 |      197 | [ECCV](https://eccv2022.ecva.net/)       | 2022_03_07 |
+| 10 |       58 | [MM](https://2022.acmmm.org/)            | 2022_04_07 |
