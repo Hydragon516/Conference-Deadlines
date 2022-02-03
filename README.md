@@ -10,4 +10,5 @@
 |  3 |        0 | [AutoML-Conf](https://automl.cc/)    | 2022_03_03 |
 |  4 |        0 | [CoLLAs](https://lifelong-ml.cc)     | 2022_03_04 |
 |  5 |      197 | [ECCV](https://eccv2022.ecva.net/)   | 2022_03_07 |
-|  6 |       58 | [MM](https://2022.acmmm.org/)        | 2022_04_07 |
+|  6 |       29 | [RO-MAN](http://www.ro-man2022.org/) | 2022_03_15 |
+|  7 |       58 | [MM](https://2022.acmmm.org/)        | 2022_04_07 |
