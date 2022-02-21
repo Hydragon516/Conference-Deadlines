@@ -13,4 +13,5 @@
 |  6 |       29 | [RO-MAN](http://www.ro-man2022.org/)           | 2022_03_15 |
 |  7 |      100 | [InterSpeech](http://www.interspeech2022.org/) | 2022_03_21 |
 |  8 |       58 | [MM](https://2022.acmmm.org/)                  | 2022_04_07 |
-|  9 |       64 | [COLING](https://coling2022.org/)              | 2022_05_17 |
+|  9 |       34 | [ICMI](https://icmi.acm.org/2022/)             | 2022_05_13 |
+| 10 |       64 | [COLING](https://coling2022.org/)              | 2022_05_17 |
