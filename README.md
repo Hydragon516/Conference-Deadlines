@@ -12,3 +12,4 @@
 |  5 |       64 | [COLING](https://coling2022.org/)               | 2022_05_17 |
 |  6 |      245 | [NeurIPS](https://neurips.cc/Conferences/2022/) | 2022_05_19 |
 |  7 |       32 | [ISMIR](https://ismir2022.ismir.net/)           | 2022_05_20 |
+|  8 |       -1 | [AACL-IJCNLP](https://www.aacl2022.org/)        | 2022_07_15 |
