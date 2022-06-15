@@ -8,5 +8,6 @@
 |  1 |        9 | [ISMIS](https://ismis2022.icar.cnr.it/)       | 2022_06_16 |
 |  2 |       20 | [ACML](https://www.acml-conf.org/2022)        | 2022_06_23 |
 |  3 |      132 | [EMNLP](https://2022.emnlp.org/)              | 2022_06_24 |
-|  4 |       -1 | [AACL-IJCNLP](https://www.aacl2022.org/)      | 2022_07_15 |
-|  5 |       95 | [AAAI](https://aaai.org/Conferences/AAAI-23/) | 2022_08_15 |
+|  4 |       54 | [WACV](http://wacv2023.thecvf.com/)           | 2022_07_13 |
+|  5 |       -1 | [AACL-IJCNLP](https://www.aacl2022.org/)      | 2022_07_15 |
+|  6 |       95 | [AAAI](https://aaai.org/Conferences/AAAI-23/) | 2022_08_15 |
